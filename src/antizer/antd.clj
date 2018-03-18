@@ -24,6 +24,7 @@
                   DatePicker
                   DatePicker.MonthPicker
                   DatePicker.RangePicker
+                  Divider
                   Dropdown
                   Dropdown.Button
                   Form
@@ -39,6 +40,9 @@
                   Layout.Footer
                   Layout.Header
                   Layout.Sider
+                  List
+                  List.Item
+                  List.Item.Meta
                   LocaleProvider
                   Mention
                   Menu
